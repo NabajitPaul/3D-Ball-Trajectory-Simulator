@@ -69,7 +69,7 @@ OpenGL libraries (GLUT/GLU)
 bash
 Copy
 Edit
-git clone https://github.com/your-username/3d-ball-trajectory.git
+git clone https://github.com/NabajitPaul/3d-ball-trajectory.git
 Open 3d_ball_trajectory.cbp in Code::Blocks.
 
 3️⃣ Configure Libraries
